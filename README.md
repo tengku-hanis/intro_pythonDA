@@ -7,3 +7,5 @@ Material:
 3) pandas.pynb
 4) basic_plots.ipynb
 
+*All ipynb files can be clicked to view the notebook*
+
